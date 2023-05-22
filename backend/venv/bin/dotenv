@@ -1,4 +1,4 @@
-#!/Users/ryenugula/Workspace/Personal/voicechat/backend/venv/bin/python3.11
+#!/Users/ryenugula/Workspace/Personal/vox-assistant/backend/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys

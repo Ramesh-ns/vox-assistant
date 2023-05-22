@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ryenugula/Workspace/Personal/voicechat/backend/venv"
+VIRTUAL_ENV="/Users/ryenugula/Workspace/Personal/vox-assistant/backend/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
